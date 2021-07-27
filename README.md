@@ -1,11 +1,11 @@
 # RSL PROJECT
 
 ## Project Description: 
-The following project aims to Classify a Google Earth image  
+The following project aims to Classify a Google Earth image and calculate the land covered area.  
 
 ## Database Description:
 
-Google Earth Image .ecw Format
+Google Earth Image .ecw format converted to the .tif file format
 
 ## Attribute Information:
 Creating Training set using QGIS
